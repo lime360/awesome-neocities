@@ -50,6 +50,12 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 - [Twine](https://twinery.org/) - An open-source tool for interactive and non-linear stories.
 - [TurboWarp Packager](https://packager.turbowarp.org/) - A Scratch project converter.
 
+## Webring services
+
+- [Neorings](https://www.neorings.org/) - A platform to host webrings and add pages to webrings. It has an API for creating custom webring home pages on your neocities page.
+- [Webri.ng](https://webri.ng/) - A much simpler webring host that's been around slightly longer. It doesn't have an API.
+
+
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
