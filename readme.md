@@ -36,6 +36,7 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 - [Sadgrl's Layout Builder](https://sadgrl.online/projects/layout-builder/) - Browser-based responsive layout builder.
 - [NavLink Ads](https://dimden.dev/navlinkads/) - Non-commercial Ad service for easily promote your Neocities site.
 - [deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - GitHub Action for easily upload your site files from your GitHub repo.
+- [TiddlyWiki](https://tiddlywiki.com/) - a non-linear personal web notebook.
 
 ## Webmaster resources
 
