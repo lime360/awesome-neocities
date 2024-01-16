@@ -18,6 +18,7 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 - [Tools](#tools)
 - [Webmaster resources](#webmaster-resources)
 - [Interactive content](#interactive-content)
+- [Webring serivces](#webring-services)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -55,6 +56,7 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 
 - [Neorings](https://www.neorings.org/) - A platform to host webrings and add pages to webrings. It has an API for creating custom webring home pages on your neocities page.
 - [Webri.ng](https://webri.ng/) - A much simpler webring host that's been around slightly longer. It doesn't have an API.
+- [onionring.js](https://garlic.garden/onionring/) - Widely-used webring toolkit.
 
 
 ## Follow
