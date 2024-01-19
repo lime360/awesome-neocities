@@ -38,7 +38,6 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 - [NavLink Ads](https://dimden.dev/navlinkads/) - Non-commercial Ad service for easily promote your Neocities site.
 - [deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - GitHub Action for easily upload your site files from your GitHub repo.
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear personal web notebook.
-- [vsc_html5_boilerplate](https://github.com/sidthesloth92/vsc_html5_boilerplate) - A Visual Studio Code extenstion to easily generate an HTML boilerplate for your site.
 
 ## Webmaster resources
 
@@ -46,6 +45,8 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 - [Neocities, PHP and SQL](https://scott2.neocities.org/blog/2023-09-17-neocities-php-and-sql/) - A guide on setting up a poll that runs on PHP and a SQLite database, with the front code being located on your Neocities site.
 - [Webmentions on Neocities](https://webmentions.neocities.org/) - A site that can help you to set up Indieweb's Webmentions on your Neocities site.
 - [ThemeKings](https://themekings.net/) - Website templates inspired by old mid-2000s websites.
+- [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) - A Visual Studio Code extenstion to easily generate an HTML boilerplate for your site.
+- [HTML Play](https://marketplace.visualstudio.com/items?itemName=bianxianyang.htmlplay) - Another Visual Studio Code extension for a CodePen-like live preview.
 
 ## Interactive content
 
