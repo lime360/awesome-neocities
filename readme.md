@@ -38,6 +38,7 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 - [NavLink Ads](https://dimden.dev/navlinkads/) - Non-commercial Ad service for easily promote your Neocities site.
 - [deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - GitHub Action for easily upload your site files from your GitHub repo.
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear personal web notebook.
+- [vsc_html5_boilerplate](https://github.com/sidthesloth92/vsc_html5_boilerplate) - A Visual Studio Code extenstion to easily generate an HTML boilerplate for your site.
 
 ## Webmaster resources
 
