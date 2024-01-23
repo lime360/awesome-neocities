@@ -14,12 +14,16 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 
 ## Contents
 
-- [Official resources](#official-resources)
-- [Tools](#tools)
-- [Webmaster resources](#webmaster-resources)
-- [Interactive content](#interactive-content)
-- [Webring services](#webring-services)
-- [Follow](#follow)
+- [Awesome Neocities  ](#awesome-neocities--)
+  - [Contents](#contents)
+  - [Official resources](#official-resources)
+  - [Tools](#tools)
+  - [Webmaster resources](#webmaster-resources)
+  - [Interactive content](#interactive-content)
+  - [Webring services](#webring-services)
+  - [Follow](#follow)
+  - [Contributing](#contributing)
+    - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -38,6 +42,7 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 - [NavLink Ads](https://dimden.dev/navlinkads/) - Non-commercial Ad service for easily promote your Neocities site.
 - [deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - GitHub Action for easily upload your site files from your GitHub repo.
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear personal web notebook.
+- [siteHX](https://codeberg.org/lime360/siteHX) - A simple static site generator written in Haxe. Perfect for simple and small websites.
 
 ## Webmaster resources
 
