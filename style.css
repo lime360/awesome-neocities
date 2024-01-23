@@ -6,3 +6,6 @@ body {
     max-width: 69ch;
     margin: 1em auto;
 }
+ul, ol, li {
+    list-style-position: inside;
+}
