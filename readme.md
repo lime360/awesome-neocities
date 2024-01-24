@@ -14,7 +14,6 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 
 ## Contents
 
-- [Contents](#contents)
 - [Official resources](#official-resources)
 - [Tools](#tools)
 - [Webmaster resources](#webmaster-resources)
