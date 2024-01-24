@@ -14,16 +14,15 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 
 ## Contents
 
-- [Awesome Neocities  ](#awesome-neocities--)
-  - [Contents](#contents)
-  - [Official resources](#official-resources)
-  - [Tools](#tools)
-  - [Webmaster resources](#webmaster-resources)
-  - [Interactive content](#interactive-content)
-  - [Webring services](#webring-services)
-  - [Follow](#follow)
-  - [Contributing](#contributing)
-    - [Contributors](#contributors)
+- [Contents](#contents)
+- [Official resources](#official-resources)
+- [Tools](#tools)
+- [Webmaster resources](#webmaster-resources)
+- [Interactive content](#interactive-content)
+- [Webring services](#webring-services)
+- [Follow](#follow)
+- [Contributing](#contributing)
+  - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
