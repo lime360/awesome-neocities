@@ -38,6 +38,7 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 - [Zonelets](https://zonelets.net/) - A simple blogging engine made in JS. Recommended for most newbies who want to try making a blog on Neocities.
 - [Sadgrl's Layout Builder](https://sadgrl.online/projects/layout-builder/) - Browser-based responsive layout builder.
 - [NavLink Ads](https://dimden.dev/navlinkads/) - Non-commercial Ad service for easily promote your Neocities site.
+- [OpenLink Ads](https://fazlabz-dev.github.io/openlink/) - Same as above, but open-source and uses unmodified NeoLink source code (which is also the base of NavLink).
 - [deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - GitHub Action for easily upload your site files from your GitHub repo.
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear personal web notebook.
 - [siteHX](https://lib.haxe.org/p/siteHX/) - A simple static site generator written in Haxe. Perfect for simple and small websites. Used for the list's Neocities site.
