@@ -10,6 +10,8 @@ A curated directory for awesome Neocities resources.
 
 Neocities is a free webhost that is reviving the long-lost creative websites.
 
+Want to suggest a resource? Check out the [contribution guidelines](https://github.com/lime360/awesome-neocities/blob/main/contributing.md)!
+
 </div>
 
 ## Contents
@@ -63,11 +65,3 @@ Neocities is a free webhost that is reviving the long-lost creative websites.
 - [Neorings](https://www.neorings.org/) - A platform to host webrings and add pages to webrings. It has an API for creating custom webring home pages on your neocities page.
 - [Webri.ng](https://webri.ng/) - A much simpler webring host that's been around slightly longer. It doesn't have an API.
 - [onionring.js](https://garlic.garden/onionring/) - Widely-used webring toolkit.
-
-## Special thanks
-
-- @kyledrake, for making Neocities possible.
-- @lime360 (me!), for this awesome list.
-- And of couse, the [contributors](https://github.com/lime360/awesome-neocities/graphs/contributors)!
-
-Want to suggest a resource? Check out the [contribution guidelines](https://github.com/lime360/awesome-neocities/blob/main/contributing.md)!
