@@ -16,3 +16,7 @@ ALWAYS create a new branch with your proposed changes. Thank you!
   ```
   - [item name](https link) - Description beginning with capital, ending in period.
   ```
+
+## Item topic
+
+Items must follow the Frontend Web development topic and must be beginner-friendly and/or related to Neocities (resources for different hosts like GitHub Pages are fine too).
