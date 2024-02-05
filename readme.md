@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome Neocities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/lime360/awesome-neocities/actions/workflows/lint.yaml/badge.svg)](https://github.com/lime360/awesome-neocities/actions/workflows/lint.yaml)
+# Awesome Neocities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/lime360/awesome-neocities/actions/workflows/lint.yaml/badge.svg)](https://github.com/lime360/awesome-neocities/actions/workflows/lint.yaml) [![GitHub stars](https://img.shields.io/github/stars/lime360/awesome-neocities)](https://github.com/lime360/awesome-neocities) [![GitHub forks](https://img.shields.io/github/forks/lime360/awesome-neocities)](https://github.com/lime360/awesome-neocities)
 
 A curated directory for awesome Neocities resources.
 
