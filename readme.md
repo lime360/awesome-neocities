@@ -21,6 +21,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [Webmaster resources](#webmaster-resources)
 - [Interactive content](#interactive-content)
 - [Webring services](#webring-services)
+- [Communities](#communities)
 
 <!-- CONTENT -->
 
@@ -48,6 +49,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 ## Webmaster resources
 
 - [W3Schools](https://www.w3schools.com/) - The most largest site to learn HTML, CSS, JS, and even server-side technologies!
+- [Markdown Guide](https://www.markdownguide.org/) - A website that explains the most lightweight markup language in the world, which can be used for making websites using static site generators.
 - [Neocities, PHP and SQL](https://scott2.neocities.org/blog/2023-09-17-neocities-php-and-sql/) - A guide on setting up a poll that runs on PHP and a SQLite database, with the front code being located on your Neocities site.
 - [Webmentions on Neocities](https://webmentions.neocities.org/) - A site that can help you to set up Indieweb's Webmentions on your Neocities site.
 - [ThemeKings](https://themekings.net/) - Website templates inspired by old mid-2000s websites.
@@ -65,3 +67,9 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [Neorings](https://www.neorings.org/) - A platform to host webrings and add pages to webrings. It has an API for creating custom webring home pages on your neocities page.
 - [Webri.ng](https://webri.ng/) - A much simpler webring host that's been around slightly longer. It doesn't have an API.
 - [onionring.js](https://garlic.garden/onionring/) - Widely-used webring toolkit.
+
+## communities
+
+- [r/neocities](https://www.reddit.com/r/neocities/) - Neocities subreddit.
+- [r/neocities Discord server](https://discord.gg/3d3uAzWXkd) - Discord server for the said subreddit.
+- [Melonland Forum](https://forum.melonland.net) - Forum for the web revival community.
