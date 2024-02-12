@@ -71,6 +71,5 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 
 ## Communities
 
-- [r/neocities](https://www.reddit.com/r/neocities/) - Neocities subreddit.
-- [r/neocities Discord server](https://discord.gg/3d3uAzWXkd) - Discord server for the said subreddit.
+- [r/neocities Discord server](https://discord.gg/3d3uAzWXkd) - Discord server for the r/neocities subreddit.
 - [Melonland Forum](https://forum.melonland.net) - Forum for the web revival community.
