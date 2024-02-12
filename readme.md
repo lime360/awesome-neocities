@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome Neocities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/lime360/awesome-neocities/actions/workflows/lint.yaml/badge.svg)](https://github.com/lime360/awesome-neocities/actions/workflows/lint.yaml) [![GitHub stars](https://img.shields.io/github/stars/lime360/awesome-neocities)](https://github.com/lime360/awesome-neocities) [![GitHub forks](https://img.shields.io/github/forks/lime360/awesome-neocities)](https://github.com/lime360/awesome-neocities)
+# Awesome Neocities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/lime360/awesome-neocities/actions/workflows/lint.yaml/badge.svg)](https://github.com/lime360/awesome-neocities/actions/workflows/lint.yaml)
 
 A curated directory for awesome Neocities resources.
 
@@ -68,7 +68,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [Webri.ng](https://webri.ng/) - A much simpler webring host that's been around slightly longer. It doesn't have an API.
 - [onionring.js](https://garlic.garden/onionring/) - Widely-used webring toolkit.
 
-## communities
+## Communities
 
 - [r/neocities](https://www.reddit.com/r/neocities/) - Neocities subreddit.
 - [r/neocities Discord server](https://discord.gg/3d3uAzWXkd) - Discord server for the said subreddit.
