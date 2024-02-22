@@ -27,6 +27,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 <!-- CONTENT -->
 
 ## Official resources
+*Resources from Neocities itself or the contributors.*
 
 - [Neocities](https://neocities.org/) - The site itself.
 - [Neocities' GitHub repo](https://github.com/neocities) - Official repository for the entire site on GitHub.
@@ -35,6 +36,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [CLI](https://neocities.org/cli) - Official CLI + Ruby API wrapper. Also supports `.gitignore` files!
 
 ## Tools
+*Tools bulit by the community.*
 
 - [Zonelets](https://zonelets.net/) - A simple blogging engine made in JS. Recommended for most newbies who want to try making a blog on Neocities.
 - [Sadgrl's Layout Builder](https://sadgrl.online/projects/layout-builder/) - Browser-based responsive layout builder.
@@ -48,6 +50,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [SAve MY nEOCiTy](https://melonking.net/melon?z=/free/software/neocities-downloader) - Neocities site archival tool. Can be used in case the "Download entire site" dashboard link dissappears.
 
 ## Webmaster resources
+*Resources to learn HTML, CSS, JS, etc.*
 
 - [W3Schools](https://www.w3schools.com/) - The most largest site to learn HTML, CSS, JS, and even server-side technologies!
 - [Markdown Guide](https://www.markdownguide.org/) - A website that explains the most lightweight markup language in the world, which can be used for making websites using static site generators.
@@ -58,18 +61,21 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [HTML Play](https://marketplace.visualstudio.com/items?itemName=bianxianyang.htmlplay) - Another Visual Studio Code extension for a CodePen-like live preview.
 
 ## Interactive content
+*Resources for creating HTML5 content.*
 
 - [Wick Editor](https://www.wickeditor.com/#/) - An animation and game development tool inspired by Adobe Animate.
 - [Twine](https://twinery.org/) - An open-source tool for interactive and non-linear stories.
 - [TurboWarp Packager](https://packager.turbowarp.org/) - A Scratch project converter.
 
 ## Webring services
+*Tiny communities that connects sites just by links.*
 
 - [Neorings](https://www.neorings.org/) - A platform to host webrings and add pages to webrings. It has an API for creating custom webring home pages on your neocities page.
 - [Webri.ng](https://webri.ng/) - A much simpler webring host that's been around slightly longer. It doesn't have an API.
 - [onionring.js](https://garlic.garden/onionring/) - Widely-used webring toolkit.
 
 ## Communities
+*Online spaces for casual discussion about Neocities and/or help with your site development.*
 
 - [r/neocities Discord server](https://discord.gg/3d3uAzWXkd) - Discord server for the r/neocities subreddit.
 - [Melonland Forum](https://forum.melonland.net) - Forum for the web revival community.
