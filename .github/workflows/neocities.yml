@@ -1,0 +1,21 @@
+name: Deploy to Neocities
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: deploy-to-neocities
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy to neocities
+      uses: bcomnes/deploy-to-neocities@v1
+      with:
+        api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+        cleanup: false
+        dist_dir: public
