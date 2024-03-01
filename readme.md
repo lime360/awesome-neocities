@@ -44,6 +44,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [OpenLink Ads](https://fazlabz-dev.github.io/openlink/) - Same as above, but open-source and uses unmodified NeoLink source code (which is also the base of NavLink).
 - [deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - GitHub Action for easily upload your site files from your GitHub repo.
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear personal web notebook.
+- [nCSS](https://github.com/lime360/ncss) - Neocities default styling as a classless CSS stylesheet. 
 - [siteHX](https://lib.haxe.org/p/siteHX/) - A simple static site generator written in Haxe. Perfect for simple and small websites. Used for the list's Neocities site.
 - [Faircamp](https://simonrepp.com/faircamp/) - Another static site generator aimed at music producers. Please note that you have to upgrade to Supporter plan, as Neocities doesn't allow hosting audio files (except for MIDI) on free accounts.
 - [Publii](https://getpublii.com/) - User-friendly static CMS that runs as a standalone desktop app.
