@@ -1,4 +1,3 @@
-␊
 <div align="center">
 
 # Awesome Neocities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -36,7 +35,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [CLI](https://neocities.org/cli) - Official CLI + Ruby API wrapper. Also supports `.gitignore` files!
 
 ## Tools
-*Tools bulit by the community.*
+*Tools built by the community.*
 
 - [Zonelets](https://zonelets.net/) - A simple blogging engine made in JS. Recommended for most newbies who want to try making a blog on Neocities.
 - [Sadgrl's Layout Builder](https://sadgrl.online/projects/layout-builder/) - Browser-based responsive layout builder.
@@ -48,17 +47,17 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [siteHX](https://lib.haxe.org/p/siteHX/) - A simple static site generator written in Haxe. Perfect for simple and small websites. Used for the list's Neocities site.
 - [Faircamp](https://simonrepp.com/faircamp/) - Another static site generator aimed at music producers. Please note that you have to upgrade to Supporter plan, as Neocities doesn't allow hosting audio files (except for MIDI) on free accounts.
 - [Publii](https://getpublii.com/) - User-friendly static CMS that runs as a standalone desktop app.
-- [SAve MY nEOCiTy](https://melonking.net/melon?z=/free/software/neocities-downloader) - Neocities site archival tool. Can be used in case the "Download entire site" dashboard link dissappears.
+- [SAve MY nEOCiTy](https://melonking.net/melon?z=/free/software/neocities-downloader) - Neocities site archival tool. It can be used in case the "Download entire site" dashboard link disappears.
 
 ## Webmaster resources
 *Resources to learn HTML, CSS, JS, etc.*
 
-- [W3Schools](https://www.w3schools.com/) - The most largest site to learn HTML, CSS, JS, and even server-side technologies!
+- [W3Schools](https://www.w3schools.com/) - The most extensive site to learn HTML, CSS, JS, and server-side technologies!
 - [Markdown Guide](https://www.markdownguide.org/) - A website that explains the most lightweight markup language in the world, which can be used for making websites using static site generators.
-- [Neocities, PHP and SQL](https://scott2.neocities.org/blog/2023-09-17-neocities-php-and-sql/) - A guide on setting up a poll that runs on PHP and a SQLite database, with the front code being located on your Neocities site.
+- [Neocities, PHP and SQL](https://scott2.neocities.org/blog/2023-09-17-neocities-php-and-sql/) - A guide on setting up a poll that runs on PHP and an SQLite database, with the front code being located on your Neocities site.
 - [Webmentions on Neocities](https://webmentions.neocities.org/) - A site that can help you to set up Indieweb's Webmentions on your Neocities site.
 - [ThemeKings](https://themekings.net/) - Website templates inspired by old mid-2000s websites.
-- [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) - A Visual Studio Code extenstion to easily generate an HTML boilerplate for your site.
+- [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) - A Visual Studio Code extension to easily generate an HTML boilerplate for your site.
 - [HTML Play](https://marketplace.visualstudio.com/items?itemName=bianxianyang.htmlplay) - Another Visual Studio Code extension for a CodePen-like live preview.
 
 ## Interactive content
@@ -69,9 +68,9 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [TurboWarp Packager](https://packager.turbowarp.org/) - A Scratch project converter.
 
 ## Webring services
-*Tiny communities that connects sites just by links.*
+*Tiny communities that connect sites just by links.*
 
-- [Neorings](https://www.neorings.org/) - A platform to host webrings and add pages to webrings. It has an API for creating custom webring home pages on your neocities page.
+- [Neorings](https://www.neorings.org/) - A platform to host webrings and add pages to webrings. It has an API for creating custom webring home pages on your Neocities page.
 - [Webri.ng](https://webri.ng/) - A much simpler webring host that's been around slightly longer. It doesn't have an API.
 - [onionring.js](https://garlic.garden/onionring/) - Widely-used webring toolkit.
 
