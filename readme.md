@@ -59,6 +59,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [ThemeKings](https://themekings.net/) - Website templates inspired by old mid-2000s websites.
 - [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) - A Visual Studio Code extension to easily generate an HTML boilerplate for your site.
 - [HTML Play](https://marketplace.visualstudio.com/items?itemName=bianxianyang.htmlplay) - Another Visual Studio Code extension for a CodePen-like live preview.
+- [TextureTown](https://textures.neocities.org) - A resource for textures that can be used as titled backgrounds.
 
 ## Interactive content
 *Resources for creating HTML5 content.*
