@@ -18,6 +18,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 
 - [Official resources](#official-resources)
 - [Tools](#tools)
+- [Zonelets](#zonelets)
 - [Webmaster resources](#webmaster-resources)
 - [Interactive content](#interactive-content)
 - [Webring services](#webring-services)
@@ -37,7 +38,6 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 ## Tools
 *Tools built by the community.*
 
-- [Zonelets](https://zonelets.net/) - A simple blogging engine made in JS. Recommended for most newbies who want to try making a blog on Neocities.
 - [Sadgrl's Layout Builder](https://sadgrl.online/projects/layout-builder/) - Browser-based responsive layout builder.
 - [NavLink Ads](https://dimden.dev/navlinkads/) - Non-commercial Ad service for easily promote your Neocities site.
 - [OpenLink Ads](https://fazlabz-dev.github.io/openlink/) - Same as above, but open-source and uses unmodified NeoLink source code (which is also the base of NavLink).
@@ -48,6 +48,14 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 - [Faircamp](https://simonrepp.com/faircamp/) - Another static site generator aimed at music producers. Please note that you have to upgrade to Supporter plan, as Neocities doesn't allow hosting audio files (except for MIDI) on free accounts.
 - [Publii](https://getpublii.com/) - User-friendly static CMS that runs as a standalone desktop app.
 - [SAve MY nEOCiTy](https://melonking.net/melon?z=/free/software/neocities-downloader) - Neocities site archival tool. It can be used in case the "Download entire site" dashboard link disappears.
+
+## Zonelets
+*A simple blogging engine for Neocities sites + it's lookalikes and alternatives!*
+* [Zonelets](https://zonelets.net/) - The original.
+* [Zoner](https://sr.ht/~Eryantrawick/zoner) - SSG interpretation.
+* [Eleventy-Zones](https://cypresssap.codeberg.page/11ty-zones-demo/) - Eleventy theme.
+* [hugo-zones](https://rainyotter.codeberg.page/hugo-zones-site/) - Hugo theme.
+* [Static Ultra](https://scott2.neocities.org/projects/static-ultra/) - Similar functionality, but with third-party plugins.
 
 ## Webmaster resources
 *Resources to learn HTML, CSS, JS, etc.*
