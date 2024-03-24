@@ -52,7 +52,7 @@ Want to suggest a resource? Check out the [contribution guidelines](https://gith
 ## Zonelets
 *A simple blogging engine for Neocities sites + it's lookalikes and alternatives!*
 * [Zonelets](https://zonelets.net/) - The original.
-* [Zoner](https://sr.ht/~Eryantrawick/zoner) - SSG interpretation.
+* [Zoner](https://zone-builder.neocities.org/) - SSG interpretation.
 * [Eleventy-Zones](https://cypresssap.codeberg.page/11ty-zones-demo/) - Eleventy theme.
 * [hugo-zones](https://rainyotter.codeberg.page/hugo-zones-site/) - Hugo theme.
 * [Static Ultra](https://scott2.neocities.org/projects/static-ultra/) - Similar functionality, but with third-party plugins.
